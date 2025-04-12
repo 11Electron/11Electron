@@ -1,0 +1,16 @@
+{
+  "name": "LumE USD",
+  "symbol": "LUSD",
+  "decimals": 8,
+  "address": "HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE",
+  "logoURI": "https://gateway.pinata.cloud/ipfs/ВАШ_CID",
+  "tags": [
+    "stablecoin"
+  ],
+  "extensions": {
+    "metadataUri": "https://gateway.pinata.cloud/ipfs/QmPgPTBWgUnPXxhb1AjKd4miMmomthnvLCZBA9yVoQHWjD",
+    "website": "https://yourwebsite.com",
+    "twitter": "https://twitter.com/yourhandle",
+    "coingeckoId": "lumEusd" LUME
+  }
+}
